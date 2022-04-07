@@ -1,2 +1,2 @@
-# Tabs
-https://anvp-dev.github.io/Tabs/
+# tabs
+https://anvp-dev.github.io/tabs/
